@@ -35,19 +35,15 @@ name = "归档"
 url = "/archives/"
 weight = 30
 
+
 [params.comments]
 enabled = true
 
-[params]
-comments = true
-defaultTheme = "auto"
-ShowReadingTime = true
-
-[params.giscus]
+[params.comments.giscus]
 repo = "starksong/myblog"
-repoId = "R_kgDOxxxxxx"
+repoId = "R_kgD0SYtJqw"
 category = "Announcements"
-categoryId = "DIC_xxxxxx"
+categoryId = "DIC_kwD0SYtJq84C8t62"
 mapping = "pathname"
 reactionsEnabled = "1"
 emitMetadata = "0"
