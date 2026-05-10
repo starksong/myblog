@@ -2,6 +2,7 @@
 title: "我的第一篇博客"
 date: 2026-05-09
 draft: false
+comments: true
 ---
 
 # Hello World
